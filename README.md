@@ -5,7 +5,7 @@ Room Apartment module for innkeeper application.
 - [Description](#innkeeper)
 - [Responsibilities](#responsibilities)
 - [Technologies](#technologies)
-- [Using Bootstrap](#using_Bootstrap)
+- [Using_Bootstrap](#using_Bootstrap)
 - [Developers](#developers)
 
 ### Responsibilities
