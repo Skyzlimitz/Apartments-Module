@@ -10,10 +10,15 @@ Room Apartment module for innkeeper application.
 
 ### Responsibilities
 -Created input fields for data to be used on the client side.
+
 -Created validations for said inputs.
+
 -Levaraged mongodb/driver in order to store provided information in a database.
+
 -Used exrpress to expose the mongo database.
+
 -Used angular to add on click, and dynamic functionality.
+
 -Used Html and Css to initialize page views.
 
 ### Technologies
